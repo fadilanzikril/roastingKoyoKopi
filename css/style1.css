@@ -60,6 +60,7 @@ body{
 }
 
 .jumbo{
+  width: auto;
   background-image: url(../foto/paralax/coffee.jpg);
   background-attachment: fixed;
   background-size: cover;
